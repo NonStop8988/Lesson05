@@ -13,6 +13,6 @@ int Fact(int n)
     return result;
 }
 
-// Console.Clear();
+Console.Clear();
 int number = 5;
 Console.WriteLine($"Факториал числа {number} = {Fact(number)}");
